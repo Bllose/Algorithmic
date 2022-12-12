@@ -32,7 +32,7 @@
 ## 二叉查找树，平衡树
 - Leetcode 1382 将二叉搜索树变平衡  
 - - java/bllose/binaryTree/BinaryTrees
-![balanceBTS](https://github.com/Bllose/bllose-algorithmic/blob/main/src/main/java/bllose/binaryTree/resourses/balanceBTS.png)
+![balanceBTS](https://github.com/Bllose/Algorithmic/blob/main/src/main/java/bllose/binaryTree/resourses/balanceBTS.png)
 
 ## 分治  
 - Leetcode 875 爱吃香蕉的珂珂 
@@ -46,12 +46,12 @@
 - **深度优先** 
 - - Leetcode 98 验证二叉搜索树 Validate Binary Search Tree
 - - - java/bllose/binaryTree/BinaryTrees.java
-![binaryTree](https://github.com/Bllose/bllose-algorithmic/blob/main/src/main/java/bllose/binaryTree/resourses/validBTS.png)  
+![binaryTree](https://github.com/Bllose/Algorithmic/blob/main/src/main/java/bllose/binaryTree/resourses/validBTS.png)  
 
 - **广度优先** Level Order
 - - Leetcode 102 二叉树的层序遍历 Binary Tree Level Order Traversal  
 - - - java/bllose/binaryTree/BinaryTrees.java
-![levelOrderTraversal](https://github.com/Bllose/bllose-algorithmic/blob/main/src/main/java/bllose/binaryTree/resourses/LevelOrderTraversal.png)
+![levelOrderTraversal](https://github.com/Bllose/Algorithmic/blob/main/src/main/java/bllose/binaryTree/resourses/LevelOrderTraversal.png)
 
 ## 回溯 
 - Leetcode 5 最长回文子串
