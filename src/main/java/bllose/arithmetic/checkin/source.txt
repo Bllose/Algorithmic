@@ -1,0 +1,5 @@
+4
+absent present present leaveearly present late late
+present
+present absent present present leaveearly present absent
+present present present late present present present present absent present present leaveearly
